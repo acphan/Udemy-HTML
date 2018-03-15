@@ -1,0 +1,10 @@
+body {
+	background: url(https://images.unsplash.com/photo-1503386435953-66943ba30817?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d414b847aa83183d064683258a95232a&auto=format&fit=crop&w=1950&q=80);
+	background-size: cover;
+	background-position: center;
+}
+#content {
+	text-align: center;
+	padding-top: 25%;
+	color: white;
+}
